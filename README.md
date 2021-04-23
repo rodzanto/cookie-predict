@@ -5,6 +5,8 @@ This repository contains the example code for predicting the age range of web co
 * AWS Glue & Amazon Athena - For auto-discovering, catalog, and prepare the source data
 * Amazon SageMaker batch transfomation - For running predictions over a list of users finding out their age-range, and calculating the accuracy
 
+![Architecture](images/diagram.png)
+
 ---
 
 For starting follow the notebooks provided in order. Examples are best if run on Amazon SageMaker Studio
